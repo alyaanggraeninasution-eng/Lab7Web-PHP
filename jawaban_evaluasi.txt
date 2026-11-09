@@ -1,0 +1,22 @@
+Jawaban Evaluasi Praktikum 7  PHP
+
+1. Apa perbedaan client-side dan server-side?
+    Client-side adalah proses yang dijalankan di browser pengguna, sedangkan server-side adalah proses yang dijalankan di server.
+
+2. Mengapa PHP membutuhkan web server?
+    Karena PHP merupakan bahasa pemrograman server-side yang perlu diproses oleh web server sebelum hasilnya dikirim ke browser.
+
+3. Apa fungsi tanda `$` dalam PHP?
+    Tanda `$` digunakan untuk menandai atau mendeklarasikan variabel dalam PHP.
+
+4. Apa perbedaan metode GET dan POST?**
+    GET mengirim data melalui URL, sedangkan POST mengirim data melalui bagian isi permintaan (request body).
+
+5. Mengapa validasi server-side tetap diperlukan?
+    Agar data yang diterima server tetap diperiksa kebenaran dan keamanannya, meskipun pengguna melewati validasi pada browser.
+
+6. Apa fungsi `htmlspecialchars()`?
+    Untuk mengubah karakter khusus HTML menjadi bentuk aman sehingga input pengguna tidak langsung ditafsirkan sebagai kode HTML.
+
+7. Apa manfaat penggunaan function dalam PHP?
+    Function membuat kode lebih terstruktur, dapat digunakan kembali, mengurangi pengulangan kode, dan memudahkan pemeliharaan program.
